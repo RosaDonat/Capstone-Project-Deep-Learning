@@ -31,5 +31,5 @@ def check_prime(number):
 			
 			
 		
-check_prime(17)
+check_prime(31)
 
